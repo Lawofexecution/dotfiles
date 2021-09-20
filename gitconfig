@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yassine.daoudipr@gmail.com
+	name = yassine daoudi
